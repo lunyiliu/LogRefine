@@ -1,0 +1,167 @@
+{
+ "planner": [
+  {
+   "version": "logrefine-role-v1",
+   "role": "planner",
+   "plan_items": [
+    {
+     "plan_id": "p-demo-AD",
+     "seed_ids": [
+      "demo-ad-0002"
+     ],
+     "target_task": "AD",
+     "target_cell": {
+      "source": "self-authored-demo",
+      "scenario": "demo",
+      "difficulty": "basic"
+     },
+     "operator": "question_constraint_expansion",
+     "evidence_ids": [
+      "demo-ad-0002"
+     ],
+     "invariants": [
+      "label preserved"
+     ],
+     "requested_count": 1,
+     "attempt_budget": 2
+    }
+   ],
+   "unfilled_cells": []
+  },
+  {
+   "version": "logrefine-role-v1",
+   "role": "planner",
+   "plan_items": [],
+   "unfilled_cells": []
+  }
+ ],
+ "generalizer": [
+  {
+   "version": "logrefine-role-v1",
+   "role": "generalizer",
+   "status": "candidate",
+   "novelty_kind": "paraphrase",
+   "preserved_invariants": [
+    "trusted label kept"
+   ],
+   "candidate": {
+    "sample_id": "cand-fixture",
+    "parent_seed_id": "demo-ad-0002",
+    "source_record_ids": [
+     "demo-ad-0002"
+    ],
+    "source_id": "demo-ad-0002",
+    "source_revision": "self-authored-demo-view-v1",
+    "source_label_version": "train-view-v1",
+    "task": "AD",
+    "difficulty": "basic",
+    "generation_operator": "question_constraint_expansion",
+    "novelty_kind": "paraphrase",
+    "input_mode": "log_only",
+    "reasoning": null,
+    "evidence_refs": [],
+    "scenario_tags": [],
+    "preserved_invariants": [
+     "trusted label kept"
+    ],
+    "instruction": "Judge whether the following synthetic service log window is normal or abnormal operation, and name the anomaly type if abnormal. Answer using only the given window.",
+    "input": "2026-01-04 09:00:01 ERROR storage Disk /mnt/data usage 98% - writes rejected\n2026-01-04 09:00:02 WARN gateway retry 1/3 route checkout",
+    "output": "abnormal: disk capacity exhaustion (writes rejected); the gateway retry is downstream"
+   }
+  }
+ ],
+ "inspector": [
+  {
+   "version": "logrefine-role-v1",
+   "role": "inspector",
+   "checks": {
+    "task_validity": "pass",
+    "correctness": "fail",
+    "grounding": "pass",
+    "completeness": "pass",
+    "usability": "pass",
+    "novelty": "pass"
+   },
+   "defects": [
+    {
+     "defect_id": "d1",
+     "code": "clarity_gap",
+     "severity": "minor",
+     "location": "instruction tail",
+     "evidence_ids": [],
+     "description": "clarity",
+     "repairability": "repairable",
+     "edit_scope": [
+      "instruction"
+     ],
+     "preserve": [
+      "input",
+      "output"
+     ]
+    }
+   ],
+   "route": "repair",
+   "route_reason": "bounded"
+  },
+  {
+   "version": "logrefine-role-v1",
+   "role": "inspector",
+   "checks": {
+    "task_validity": "pass",
+    "correctness": "pass",
+    "grounding": "pass",
+    "completeness": "pass",
+    "usability": "pass",
+    "novelty": "pass"
+   },
+   "defects": [],
+   "route": "accept",
+   "route_reason": "clean"
+  }
+ ],
+ "optimizer": [
+  {
+   "version": "logrefine-role-v1",
+   "role": "optimizer",
+   "status": "revised",
+   "revised_candidate": {
+    "sample_id": "cand-fixture",
+    "parent_seed_id": "demo-ad-0002",
+    "source_record_ids": [
+     "demo-ad-0002"
+    ],
+    "source_id": "demo-ad-0002",
+    "source_revision": "self-authored-demo-view-v1",
+    "source_label_version": "train-view-v1",
+    "task": "AD",
+    "difficulty": "basic",
+    "generation_operator": "question_constraint_expansion",
+    "novelty_kind": "paraphrase",
+    "input_mode": "log_only",
+    "reasoning": null,
+    "evidence_refs": [],
+    "scenario_tags": [],
+    "preserved_invariants": [
+     "trusted label kept"
+    ],
+    "instruction": "Judge whether the following synthetic service log window is normal or abnormal operation, and name the anomaly type if abnormal. Answer using only the given window. What is the final state?",
+    "input": "2026-01-04 09:00:01 ERROR storage Disk /mnt/data usage 98% - writes rejected\n2026-01-04 09:00:02 WARN gateway retry 1/3 route checkout",
+    "output": "abnormal: disk capacity exhaustion (writes rejected); the gateway retry is downstream"
+   },
+   "defect_to_edit": [
+    {
+     "defect_id": "d1",
+     "fields_changed": [
+      "instruction"
+     ],
+     "evidence_ids": [],
+     "before": "x",
+     "after": "y",
+     "why_resolved": "clarity fixed"
+    }
+   ],
+   "unresolved_defects": [],
+   "requested_route": "reinspect"
+  }
+ ]
+}

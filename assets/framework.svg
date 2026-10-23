@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="1000" viewBox="0 0 1520 1000">
+<defs><marker id="a0" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#24354a"/></marker><marker id="a1" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#2a78d6"/></marker><marker id="a2" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#20896e"/></marker><marker id="a3" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#7861a8"/></marker><marker id="a4" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#d88432"/></marker><marker id="a5" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#58697c"/></marker></defs>
+<rect width="1520" height="1000" fill="white"/>
+<rect x="12" y="10" width="1496" height="251" rx="14" fill="#f3f6fa" stroke="#c8d5e1" stroke-width="2"/>
+<text x="30" y="44" font-family="Arial, Liberation Sans, sans-serif" font-size="30" fill="#24354a" font-weight="bold" text-anchor="start">Diverse log-analysis seeds</text>
+<rect x="28" y="61" width="353" height="70" rx="9" fill="white" stroke="#d1dce7" stroke-width="1.4"/>
+<g transform="translate(42,78) scale(1.1)">
+<rect x="2" y="3" width="13" height="30" rx="2" fill="white" stroke="#2a78d6" stroke-width="2"/>
+<path d="M5,9 h7" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="6" cy="12" r="1" fill="#2a78d6" stroke="none" stroke-width="2"/>
+<path d="M5,17 h7" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="6" cy="20" r="1" fill="#2a78d6" stroke="none" stroke-width="2"/>
+<path d="M5,25 h7" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="6" cy="28" r="1" fill="#2a78d6" stroke="none" stroke-width="2"/>
+<rect x="19" y="3" width="13" height="30" rx="2" fill="white" stroke="#2a78d6" stroke-width="2"/>
+<path d="M22,9 h7" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="23" cy="12" r="1" fill="#2a78d6" stroke="none" stroke-width="2"/>
+<path d="M22,17 h7" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="23" cy="20" r="1" fill="#2a78d6" stroke="none" stroke-width="2"/>
+<path d="M22,25 h7" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="23" cy="28" r="1" fill="#2a78d6" stroke="none" stroke-width="2"/>
+</g>
+<text x="96" y="104" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#24354a" font-weight="bold" text-anchor="start">Supercomputers</text>
+<rect x="399" y="61" width="353" height="70" rx="9" fill="white" stroke="#d1dce7" stroke-width="1.4"/>
+<g transform="translate(413,78) scale(1.1)">
+<rect x="11" y="2" width="11" height="10" rx="2" fill="white" stroke="#2a78d6" stroke-width="2"/>
+<rect x="0" y="23" width="11" height="10" rx="2" fill="white" stroke="#2a78d6" stroke-width="2"/>
+<rect x="22" y="23" width="11" height="10" rx="2" fill="white" stroke="#2a78d6" stroke-width="2"/>
+<path d="M16.5,12 V18 M5.5,23 V18 H27.5 V23" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="467" y="104" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#24354a" font-weight="bold" text-anchor="start">Distributed systems</text>
+<rect x="770" y="61" width="353" height="70" rx="9" fill="white" stroke="#d1dce7" stroke-width="1.4"/>
+<g transform="translate(784,78) scale(1.1)">
+<rect x="1" y="4" width="32" height="23" rx="3" fill="white" stroke="#2a78d6" stroke-width="2.3"/>
+<path d="M8,11 l5,4 l-5,4 M17,20 h8 M17,27 v6 M10,33 h14" fill="none" stroke="#2a78d6" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="838" y="104" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#24354a" font-weight="bold" text-anchor="start">Operating systems</text>
+<rect x="1141" y="61" width="353" height="70" rx="9" fill="white" stroke="#d1dce7" stroke-width="1.4"/>
+<g transform="translate(1155,78) scale(1.1)">
+<rect x="1" y="3" width="32" height="29" rx="3" fill="white" stroke="#2a78d6" stroke-width="2.3"/>
+<path d="M2,11 H32" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="6" cy="7" r="1.1" fill="#2a78d6" stroke="none" stroke-width="2"/>
+<circle cx="11" cy="7" r="1.1" fill="#2a78d6" stroke="none" stroke-width="2"/>
+<circle cx="16" cy="7" r="1.1" fill="#2a78d6" stroke="none" stroke-width="2"/>
+<path d="M11,16 l-5,5 l5,5 M23,16 l5,5 l-5,5 M19,15 l-4,12" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="1209" y="104" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#24354a" font-weight="bold" text-anchor="start">Software applications</text>
+<rect x="28" y="148" width="282" height="57" rx="8" fill="#ebf2fa" stroke="none" stroke-width="2"/>
+<g transform="translate(40,159) scale(0.92)">
+<path d="M10,4 H4 V31 H10 M24,4 H30 V31 H24" fill="none" stroke="#2a78d6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12,10 h9" fill="none" stroke="#2a78d6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12,18 h9" fill="none" stroke="#2a78d6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12,26 h9" fill="none" stroke="#2a78d6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="81" y="185" font-family="Arial, Liberation Sans, sans-serif" font-size="26" fill="#2a78d6" font-weight="bold" text-anchor="start">Log parsing</text>
+<rect x="324" y="148" width="282" height="57" rx="8" fill="#ebf2fa" stroke="none" stroke-width="2"/>
+<g transform="translate(336,159) scale(0.92)">
+<rect x="2" y="3" width="29" height="23" rx="4" fill="white" stroke="#2a78d6" stroke-width="2"/>
+<path d="M8,26 V33 L16,26 M8,10 h16 M8,16 h16 M8,22 h9" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="377" y="171" font-family="Arial, Liberation Sans, sans-serif" font-size="26" fill="#2a78d6" font-weight="bold" text-anchor="start">Log</text>
+<text x="377" y="199" font-family="Arial, Liberation Sans, sans-serif" font-size="26" fill="#2a78d6" font-weight="bold" text-anchor="start">interpretation</text>
+<rect x="620" y="148" width="282" height="57" rx="8" fill="#eaf5ef" stroke="none" stroke-width="2"/>
+<g transform="translate(632,159) scale(0.92)">
+<path d="M1,21 H8 L12,8 L18,29 L23,16 H33" fill="none" stroke="#20896e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="27" cy="6" r="4" fill="white" stroke="#20896e" stroke-width="2"/>
+</g>
+<text x="673" y="171" font-family="Arial, Liberation Sans, sans-serif" font-size="26" fill="#20896e" font-weight="bold" text-anchor="start">Anomaly</text>
+<text x="673" y="199" font-family="Arial, Liberation Sans, sans-serif" font-size="26" fill="#20896e" font-weight="bold" text-anchor="start">detection</text>
+<rect x="916" y="148" width="282" height="57" rx="8" fill="#eaf5ef" stroke="none" stroke-width="2"/>
+<g transform="translate(928,159) scale(0.92)">
+<circle cx="11" cy="12" r="8" fill="white" stroke="#20896e" stroke-width="2.5"/>
+<path d="M17,19 L27,30 M8,12 H14 M11,9 V15" fill="none" stroke="#20896e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="969" y="171" font-family="Arial, Liberation Sans, sans-serif" font-size="26" fill="#20896e" font-weight="bold" text-anchor="start">Root cause</text>
+<text x="969" y="199" font-family="Arial, Liberation Sans, sans-serif" font-size="26" fill="#20896e" font-weight="bold" text-anchor="start">analysis</text>
+<rect x="1212" y="148" width="282" height="57" rx="8" fill="#eaf5ef" stroke="none" stroke-width="2"/>
+<g transform="translate(1224,159) scale(0.92)">
+<rect x="3" y="3" width="27" height="30" rx="3" fill="white" stroke="#20896e" stroke-width="2"/>
+<path d="M8,12 l3,3 l5,-6 M20,12 h5 M8,24 l3,3 l5,-6 M20,24 h5" fill="none" stroke="#20896e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="1265" y="171" font-family="Arial, Liberation Sans, sans-serif" font-size="26" fill="#20896e" font-weight="bold" text-anchor="start">Solution</text>
+<text x="1265" y="199" font-family="Arial, Liberation Sans, sans-serif" font-size="26" fill="#20896e" font-weight="bold" text-anchor="start">recommendation</text>
+<text x="760" y="241" font-family="Arial, Liberation Sans, sans-serif" font-size="26" fill="#24354a" font-weight="bold" text-anchor="middle">Each seed: user instruction + log input + reference answer</text>
+<polygon points="996.00,269.00 996.00,280.00 1004.00,280.00 990.00,290.00 976.00,280.00 984.00,280.00 984.00,269.00" fill="#2a78d6"/>
+<g transform="translate(63.6640625,293) scale(1.05)">
+<circle cx="17" cy="8" r="6" fill="white" stroke="#58697c" stroke-width="2"/>
+<path d="M4,33 V27 Q4,18 17,18 Q30,18 30,27 V33" fill="none" stroke="#58697c" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="111.6640625" y="322" font-family="Arial, Liberation Sans, sans-serif" font-size="30" fill="#24354a" font-weight="bold" text-anchor="start">O&amp;M expert workflow</text>
+<g transform="translate(789.3359375,293) scale(1.05)">
+<path d="M17,4 V10 M0,17 V25 M34,17 V25" fill="none" stroke="#58697c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="17" cy="3" r="2" fill="#58697c" stroke="none" stroke-width="2"/>
+<rect x="3" y="10" width="28" height="23" rx="6" fill="white" stroke="#58697c" stroke-width="2"/>
+<circle cx="11" cy="20" r="2" fill="#58697c" stroke="none" stroke-width="2"/>
+<circle cx="23" cy="20" r="2" fill="#58697c" stroke="none" stroke-width="2"/>
+<path d="M12,27 H22" fill="none" stroke="#58697c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="837.3359375" y="322" font-family="Arial, Liberation Sans, sans-serif" font-size="30" fill="#24354a" font-weight="bold" text-anchor="start">Four-agent collaboration</text>
+<text x="518.5" y="322" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#58697c" font-weight="bold" text-anchor="middle">Inspiration</text>
+<path d="M518.5,340 V876" fill="none" stroke="#a3afbb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="9 8"/>
+<rect x="16" y="356" width="450" height="112" rx="10" fill="#f6f8fb" stroke="#c8d5e1" stroke-width="1.5"/>
+<g transform="translate(30,371) scale(0.9)">
+<rect x="4" y="4" width="25" height="29" rx="3" fill="white" stroke="#2a78d6" stroke-width="2.3"/>
+<rect x="11" y="1" width="12" height="6" rx="2" fill="white" stroke="#2a78d6" stroke-width="2"/>
+<path d="M8,13 l2,2 l3,-4 M17,13 h8" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8,21 l2,2 l3,-4 M17,21 h8" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8,29 l2,2 l3,-4 M17,29 h8" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="74" y="391" font-family="Arial, Liberation Sans, sans-serif" font-size="27" fill="#2a78d6" font-weight="bold" text-anchor="start">Select cases</text>
+<text x="34" y="424" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#58697c" font-weight="normal" text-anchor="start">Identify gaps in tasks and scenarios.</text>
+<text x="34" y="452" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#58697c" font-weight="normal" text-anchor="start">Choose useful incidents to develop.</text>
+<polygon points="490.00,407.00 535.00,407.00 535.00,398.00 547.00,413.00 535.00,428.00 535.00,419.00 490.00,419.00" fill="#2a78d6"/>
+<rect x="570" y="356" width="840" height="112" rx="10" fill="white" stroke="#b9cbdc" stroke-width="1.6"/>
+<rect x="570" y="356" width="7" height="112" rx="3" fill="#2a78d6" stroke="none" stroke-width="2"/>
+<g transform="translate(592,376) scale(1.35)">
+<rect x="4" y="4" width="25" height="29" rx="3" fill="white" stroke="#2a78d6" stroke-width="2.3"/>
+<rect x="11" y="1" width="12" height="6" rx="2" fill="white" stroke="#2a78d6" stroke-width="2"/>
+<path d="M8,13 l2,2 l3,-4 M17,13 h8" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8,21 l2,2 l3,-4 M17,21 h8" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8,29 l2,2 l3,-4 M17,29 h8" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="658" y="390" font-family="Arial, Liberation Sans, sans-serif" font-size="28" fill="#2a78d6" font-weight="bold" text-anchor="start">Planner</text>
+<text x="658" y="424" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#24354a" font-weight="bold" text-anchor="start">Choose seeds, tasks, and expansion goals.</text>
+<text x="658" y="453" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#58697c" font-weight="normal" text-anchor="start">Context: task coverage and selection rules</text>
+<polygon points="994.00,471.00 994.00,478.00 1001.00,478.00 990.00,485.00 979.00,478.00 986.00,478.00 986.00,471.00" fill="#24354a"/>
+<rect x="16" y="488" width="450" height="112" rx="10" fill="#f6f8fb" stroke="#c8d5e1" stroke-width="1.5"/>
+<g transform="translate(30,503) scale(0.9)">
+<rect x="2" y="7" width="17" height="23" rx="2" fill="white" stroke="#20896e" stroke-width="2"/>
+<rect x="8" y="3" width="17" height="23" rx="2" fill="white" stroke="#20896e" stroke-width="2"/>
+<rect x="14" y="10" width="17" height="23" rx="2" fill="white" stroke="#20896e" stroke-width="2"/>
+<path d="M18,18 h9 M22.5,14 v8 M18,27 h9" fill="none" stroke="#20896e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="74" y="523" font-family="Arial, Liberation Sans, sans-serif" font-size="27" fill="#20896e" font-weight="bold" text-anchor="start">Write varied examples</text>
+<text x="34" y="556" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#58697c" font-weight="normal" text-anchor="start">Develop different questions from a case.</text>
+<text x="34" y="584" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#58697c" font-weight="normal" text-anchor="start">Keep the log and answer consistent.</text>
+<polygon points="490.00,539.00 535.00,539.00 535.00,530.00 547.00,545.00 535.00,560.00 535.00,551.00 490.00,551.00" fill="#20896e"/>
+<rect x="570" y="488" width="840" height="112" rx="10" fill="white" stroke="#b9cbdc" stroke-width="1.6"/>
+<rect x="570" y="488" width="7" height="112" rx="3" fill="#20896e" stroke="none" stroke-width="2"/>
+<g transform="translate(592,508) scale(1.35)">
+<rect x="2" y="7" width="17" height="23" rx="2" fill="white" stroke="#20896e" stroke-width="2"/>
+<rect x="8" y="3" width="17" height="23" rx="2" fill="white" stroke="#20896e" stroke-width="2"/>
+<rect x="14" y="10" width="17" height="23" rx="2" fill="white" stroke="#20896e" stroke-width="2"/>
+<path d="M18,18 h9 M22.5,14 v8 M18,27 h9" fill="none" stroke="#20896e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="658" y="522" font-family="Arial, Liberation Sans, sans-serif" font-size="28" fill="#20896e" font-weight="bold" text-anchor="start">Generalizer</text>
+<text x="658" y="556" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#24354a" font-weight="bold" text-anchor="start">Create varied instructions, inputs, and responses.</text>
+<text x="658" y="585" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#58697c" font-weight="normal" text-anchor="start">Context: seed examples and expansion rules</text>
+<polygon points="994.00,603.00 994.00,610.00 1001.00,610.00 990.00,617.00 979.00,610.00 986.00,610.00 986.00,603.00" fill="#24354a"/>
+<rect x="16" y="620" width="450" height="112" rx="10" fill="#f6f8fb" stroke="#c8d5e1" stroke-width="1.5"/>
+<g transform="translate(30,635) scale(0.9)">
+<circle cx="14" cy="14" r="10" fill="white" stroke="#7861a8" stroke-width="2.7"/>
+<path d="M21,22 L31,32" fill="none" stroke="#7861a8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8,14 l4,4 l8,-9" fill="none" stroke="#7861a8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="74" y="655" font-family="Arial, Liberation Sans, sans-serif" font-size="27" fill="#7861a8" font-weight="bold" text-anchor="start">Review answer quality</text>
+<text x="34" y="688" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#58697c" font-weight="normal" text-anchor="start">Check labels, facts, and conditions.</text>
+<text x="34" y="716" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#58697c" font-weight="normal" text-anchor="start">Explain what needs correction.</text>
+<polygon points="490.00,671.00 535.00,671.00 535.00,662.00 547.00,677.00 535.00,692.00 535.00,683.00 490.00,683.00" fill="#7861a8"/>
+<rect x="570" y="620" width="840" height="112" rx="10" fill="white" stroke="#b9cbdc" stroke-width="1.6"/>
+<rect x="570" y="620" width="7" height="112" rx="3" fill="#7861a8" stroke="none" stroke-width="2"/>
+<g transform="translate(592,640) scale(1.35)">
+<circle cx="14" cy="14" r="10" fill="white" stroke="#7861a8" stroke-width="2.7"/>
+<path d="M21,22 L31,32" fill="none" stroke="#7861a8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8,14 l4,4 l8,-9" fill="none" stroke="#7861a8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="658" y="654" font-family="Arial, Liberation Sans, sans-serif" font-size="28" fill="#7861a8" font-weight="bold" text-anchor="start">Inspector</text>
+<text x="658" y="688" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#24354a" font-weight="bold" text-anchor="start">Accept valid examples; identify defects for repair.</text>
+<text x="658" y="717" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#58697c" font-weight="normal" text-anchor="start">Context: task-specific quality rules</text>
+<rect x="16" y="752" width="450" height="112" rx="10" fill="#f6f8fb" stroke="#c8d5e1" stroke-width="1.5"/>
+<g transform="translate(30,767) scale(0.9)">
+<rect x="3" y="7" width="24" height="26" rx="3" fill="white" stroke="#d88432" stroke-width="2"/>
+<path d="M9,15 h8 M9,22 h6 M16,28 L30,8 L25,4 L11,24 Z" fill="none" stroke="#d88432" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="74" y="787" font-family="Arial, Liberation Sans, sans-serif" font-size="27" fill="#d88432" font-weight="bold" text-anchor="start">Correct defects</text>
+<text x="34" y="820" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#58697c" font-weight="normal" text-anchor="start">Revise the flawed part of an example.</text>
+<text x="34" y="848" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#58697c" font-weight="normal" text-anchor="start">Retain useful scenarios for training.</text>
+<polygon points="490.00,803.00 535.00,803.00 535.00,794.00 547.00,809.00 535.00,824.00 535.00,815.00 490.00,815.00" fill="#d88432"/>
+<rect x="570" y="752" width="840" height="112" rx="10" fill="white" stroke="#b9cbdc" stroke-width="1.6"/>
+<rect x="570" y="752" width="7" height="112" rx="3" fill="#d88432" stroke="none" stroke-width="2"/>
+<g transform="translate(592,772) scale(1.35)">
+<rect x="3" y="7" width="24" height="26" rx="3" fill="white" stroke="#d88432" stroke-width="2"/>
+<path d="M9,15 h8 M9,22 h6 M16,28 L30,8 L25,4 L11,24 Z" fill="none" stroke="#d88432" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="658" y="786" font-family="Arial, Liberation Sans, sans-serif" font-size="28" fill="#d88432" font-weight="bold" text-anchor="start">Optimizer</text>
+<text x="658" y="820" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#24354a" font-weight="bold" text-anchor="start">Repair the example and return it for inspection.</text>
+<text x="658" y="849" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#58697c" font-weight="normal" text-anchor="start">Context: defect reports and repair rules</text>
+<path class="integrated-arrow" d="M 1410.00,637.50 L 1466.50,637.50 L 1466.50,397.50 L 1428.00,397.50 L 1428.00,391.00 L 1413.00,400.00 L 1428.00,409.00 L 1428.00,402.50 L 1461.50,402.50 L 1461.50,632.50 L 1410.00,632.50 Z" fill="#2a78d6"/>
+<g transform="rotate(-90 1497 518)">
+<text x="1497" y="518" font-family="Arial, Liberation Sans, sans-serif" font-size="22" fill="#2a78d6" font-weight="normal" text-anchor="middle">Planning feedback</text>
+</g>
+<polygon points="994.00,735.00 994.00,742.00 1001.00,742.00 990.00,749.00 979.00,742.00 986.00,742.00 986.00,735.00" fill="#d88432"/>
+<text x="1010" y="749" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#d88432" font-weight="normal" text-anchor="start">Repair</text>
+<path class="integrated-arrow" d="M 1410.00,820.50 L 1442.50,820.50 L 1442.50,707.50 L 1428.00,707.50 L 1428.00,701.00 L 1413.00,710.00 L 1428.00,719.00 L 1428.00,712.50 L 1437.50,712.50 L 1437.50,815.50 L 1410.00,815.50 Z" fill="#7861a8"/>
+<text x="1388" y="850" font-family="Arial, Liberation Sans, sans-serif" font-size="21" fill="#7861a8" font-weight="normal" text-anchor="end">Recheck</text>
+<path class="integrated-arrow" d="M 1410.00,657.50 L 1483.50,657.50 L 1483.50,879.50 L 1269.50,879.50 L 1269.50,902.00 L 1263.00,902.00 L 1272.00,917.00 L 1281.00,902.00 L 1274.50,902.00 L 1274.50,884.50 L 1488.50,884.50 L 1488.50,652.50 L 1410.00,652.50 Z" fill="#20896e"/>
+<text x="1448" y="908" font-family="Arial, Liberation Sans, sans-serif" font-size="23" fill="#20896e" font-weight="normal" text-anchor="end">Pass</text>
+<rect x="16" y="920" width="464" height="64" rx="11" fill="#eaf1fb" stroke="#b5cbd7" stroke-width="1.5"/>
+<text x="248" y="962" font-family="Arial, Liberation Sans, sans-serif" font-size="28" fill="#2a78d6" font-weight="bold" text-anchor="middle">Log analysis LLM</text>
+<rect x="528" y="920" width="464" height="64" rx="11" fill="#edf3fb" stroke="#b5cbd7" stroke-width="1.5"/>
+<text x="760" y="962" font-family="Arial, Liberation Sans, sans-serif" font-size="28" fill="#2a78d6" font-weight="bold" text-anchor="middle">Supervised fine-tuning</text>
+<rect x="1040" y="920" width="464" height="64" rx="11" fill="#eaf5ef" stroke="#b5cbd7" stroke-width="1.5"/>
+<text x="1272" y="962" font-family="Arial, Liberation Sans, sans-serif" font-size="28" fill="#20896e" font-weight="bold" text-anchor="middle">High-quality training data</text>
+<polygon points="519.00,957.50 500.00,957.50 500.00,965.50 490.00,952.00 500.00,938.50 500.00,946.50 519.00,946.50" fill="#24354a"/>
+<polygon points="1031.00,957.50 1012.00,957.50 1012.00,965.50 1002.00,952.00 1012.00,938.50 1012.00,946.50 1031.00,946.50" fill="#24354a"/>
+</svg>

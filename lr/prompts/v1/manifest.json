@@ -1,0 +1,10 @@
+{
+  "version": "logrefine-prompts-v1",
+  "files_sha256": {
+    "generalizer.md": "115deb9a61f7993eb31a663624bd8abd998dc1e5509aca77465e9cd8ca4e1b10",
+    "inspector.md": "92fd13f484f55e07f40786fca847cc22264b89e77454d541bcb63ff159e42aee",
+    "optimizer.md": "5e2a19a07ba409eeeafa646619c3d97715263d6db7b624d853396a3c4915c86b",
+    "planner.md": "29d216112ea2c4cf0fab2eb9e8ff6223947f89408c15422359f662dc922a876e",
+    "shared.md": "d5598e1c5bd5ba8424f5ed1d4908af89ca9b22aed6b5d377baacda389c99ba08"
+  }
+}
