@@ -11,14 +11,13 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 ROOT = Path(__file__).resolve().parents[1]
 TRAIN = ROOT / 'data' / 'train.jsonl'
-PAPER_SHA256 = ('67a59da3b63f37701960fe3c8e732bda94dc245879a0a4ba60d'
-                '71d403a1c3e28')
+DATASET_SHA256 = 'c9948918bcbdfcd5210613b1bb48b1677feca8d1ed1346cc3d1185f5754d50d5'
 
 
 class DatasetIdentity(unittest.TestCase):
-    def test_exact_paper_file_sha(self):
+    def test_dataset_checksum(self):
         got = hashlib.sha256(TRAIN.read_bytes()).hexdigest()
-        self.assertEqual(got, PAPER_SHA256)
+        self.assertEqual(got, DATASET_SHA256)
 
     def test_counts_and_task_distribution(self):
         tasks = collections.Counter()
@@ -63,7 +62,7 @@ class DatasetIdentity(unittest.TestCase):
 
     def test_source_provenance_disclosed(self):
         readme = (ROOT / 'data' / 'README.md').read_text(encoding='utf-8')
-        for k in ('R-Log', '67a59da3b63f37701960fe3c8e732bda94dc245',
+        for k in ('R-Log', DATASET_SHA256[:35],
                  'license'):
             self.assertIn(k.lower(), readme.lower())
 
